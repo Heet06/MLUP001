@@ -12,6 +12,10 @@ This repository is meant for my personal learning and contains all the things th
 
 
 ##### Current Status:
-  - Sequence Data Types
-  - Control Structures (ongoing)
+  | Topic | Status |
+  |---|---|
+  | Basics of Python | Complete |
+  | Sequence Data Types | Complete |
+  | Control Structures | Complete |
+  
   - New things coming soon....
