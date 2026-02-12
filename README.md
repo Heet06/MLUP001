@@ -12,5 +12,6 @@ This repository is meant for my personal learning and contains all the things th
 
 
 ##### Current Status:
-  - Sequence Data Types (Ongoing)
+  - Sequence Data Types
+  - Control Structures (ongoing)
   - New things coming soon....
