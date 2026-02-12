@@ -17,5 +17,7 @@ This repository is meant for my personal learning and contains all the things th
   | Basics of Python | Complete |
   | Sequence Data Types | Complete |
   | Control Structures | Complete |
+  | Functions | Complete |
+  | Numpy | Ongoing |
   
   - New things coming soon....
