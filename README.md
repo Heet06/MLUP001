@@ -19,5 +19,6 @@ This repository is meant for my personal learning and contains all the things th
   | Control Structures | Complete |
   | Functions | Complete |
   | Numpy | Ongoing |
+  | Week-3 | Ongoing |
   
   - New things coming soon....
