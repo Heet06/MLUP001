@@ -1,9 +1,9 @@
 # MLUP001
 
-##### Introduction:
+### Introduction:
 This repository is meant for my personal learning and contains all the things that are needed to get started with AIML.
 
-##### Contents of the Repository:
+### Contents of the Repository:
   - Basics of Python Programming
   - Course Work
   - Colab Notebooks
@@ -11,7 +11,7 @@ This repository is meant for my personal learning and contains all the things th
   - Anything else that is present (look at it yourself!!)
 
 
-##### Current Status:
+### Current Status:
   | Topic | Status |
   |---|---|
   | Basics of Python | Complete |
@@ -19,6 +19,10 @@ This repository is meant for my personal learning and contains all the things th
   | Control Structures | Complete |
   | Functions | Complete |
   | Numpy | Complete |
-  | Descriptive Statistics | Ongoing |
+  | Descriptive Statistics | Complete |
+  | Pandas | Ongoing |
+  | Data Visualization | Pending |
+  | Data preparation | Pending |
+  | Inferential Statistics | Pending |
   
   - New things coming soon....
