@@ -9,4 +9,5 @@ import os
 import pandas as pd
 import numpy as np
 
-cars_data = pd.read_csv("Datasets/Toyota.csv")
+cars_data = pd.read_csv("Datasets/Toyota.csv", index_col=0)
+

@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "6ffff57c45fb0586",
+    "type": "split",
+    "children": [
+      {
+        "id": "e71181feaf5e666a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be406da7249ad65b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 3/Pandas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pandas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59eff336f07998d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "91cd6e35282b6ba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d10bd6f842769a02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3fd767612565c81c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "151f3088a040323f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "714396aaf0868968",
+    "type": "split",
+    "children": [
+      {
+        "id": "5579e5e53f88fd96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "793aedacbf8aad8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9af4e1c63c53337e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9a561fef9f10003d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c5287c9008d79ffb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c4a3d5457121ade9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "be406da7249ad65b",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Week 3/Week 3.md",
+    "Week 3/Pandas.md",
+    "Week 3",
+    "Week 2/Week 2.md",
+    "Week 2/Sequence data types.md",
+    "Week 2",
+    "Week 1/Week 1.md",
+    "Week 1/Variables and Datatypes.md",
+    "Week 1/Operators.md",
+    "Week 1/Introduction to Spyder I & II.md",
+    "Week 1/Introduction to Python.md",
+    "Week 1/Introduction to Google Colab.md",
+    "Week 1/Introduction to DS.md",
+    "Week 1",
+    "AIML using Python.md"
+  ]
+}
