@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e71181feaf5e666a",
+        "id": "a386c72edc1e5882",
         "type": "tabs",
         "children": [
           {
-            "id": "be406da7249ad65b",
+            "id": "38bce21e60f4d26c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "714396aaf0868968",
@@ -180,11 +181,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "be406da7249ad65b",
+  "active": "38bce21e60f4d26c",
   "lastOpenFiles": [
-    "Welcome.md",
     "Week 3/Week 3.md",
+    "Untitled.base",
     "Week 3/Pandas.md",
+    "Welcome.md",
     "Week 3",
     "Week 2/Week 2.md",
     "Week 2/Sequence data types.md",
