@@ -20,8 +20,8 @@ This repository is meant for my personal learning and contains all the things th
   | Functions | Complete |
   | Numpy | Complete |
   | Descriptive Statistics | Complete |
-  | Pandas | Ongoing |
-  | Data Visualization | Pending |
+  | Pandas | Complete |
+  | Data Visualization | Ongoing |
   | Data preparation | Pending |
   | Inferential Statistics | Pending |
   
