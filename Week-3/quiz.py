@@ -29,4 +29,4 @@ print(tips_data.isna().sum())
 
 print(max(tips_data['TotalBill']))
 
-print(tips_data['TotalBill'][int(3*(len(tips_data)/4))])
+print(sorted(tips_data['TotalBill'])[int(3*(len(tips_data)/4))])
