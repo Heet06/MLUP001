@@ -21,8 +21,8 @@ This repository is meant for my personal learning and contains all the things th
   | Numpy | Complete |
   | Descriptive Statistics | Complete |
   | Pandas | Complete |
-  | Data Visualization | Ongoing |
-  | Data preparation | Pending |
+  | Data Visualization | Complete |
+  | Data preparation | Ongoing |
   | Inferential Statistics | Pending |
   
   - New things coming soon....
