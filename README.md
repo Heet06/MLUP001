@@ -22,7 +22,7 @@ This repository is meant for my personal learning and contains all the things th
   | Descriptive Statistics | Complete |
   | Pandas | Complete |
   | Data Visualization | Complete |
-  | Data preparation | Ongoing |
-  | Inferential Statistics | Pending |
+  | Data preparation | Complete |
+  | Inferential Statistics | Ongoing |
   
   - New things coming soon....
