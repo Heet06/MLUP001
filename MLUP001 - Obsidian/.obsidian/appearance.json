@@ -1,3 +1,7 @@
 {
-  "cssTheme": "Things 3"
+  "cssTheme": "Things 3",
+  "accentColor": "",
+  "interfaceFontFamily": "SF Pro,SF Pro Rounded",
+  "textFontFamily": "Liberation Mono",
+  "monospaceFontFamily": "SF Mono"
 }
